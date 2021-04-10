@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sankaonfire
-- 👀 I’m interested in linux distro image and driver development
-- 🌱 I’m currently learning Yocto Project 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sanket
+
+  I am a Masters graduate from Carleton U. with 2+ years of experience. I am currently working on several different projects using open source softwares to advance my career.
 
 <!---
 sankaonfire/sankaonfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
